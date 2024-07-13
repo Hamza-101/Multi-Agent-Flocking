@@ -1,2 +1,2 @@
-# Multi-Agent-Flocking
+# MultiAgent Flocking
 MARL using Custom Flocking Environment
